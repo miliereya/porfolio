@@ -19,6 +19,18 @@ const items: Item[] = [
 		deployed: 'https://startupium.ru',
 	},
 	{
+		title: 'Excel Templates Parser',
+		tags: 'commerce admin dashboard next next.js nextjs react-hook-form startup styled component styled-component typescript nest fsd mui excel',
+		codeSource: 'https://github.com/miliereya/-tdd-parser',
+		deployed: 'https://tdd-parser.xyz',
+	},
+	{
+		title: 'Falcon Heavy fly simulator',
+		tags: 'commerce next next.js nextjs threejs three.js cannon cannon.js three cannon typescript 3d blender classes',
+		codeSource: 'https://github.com/miliereya/space-game',
+		deployed: 'https://falcon-launcher.live',
+	},
+	{
 		title: 'Nutritionist Website',
 		tags: 'commerce personal teamwork admin dashboard next next.js nextjs react-hook-form order management programs review language email design tailwind tailwindcss scss module draftjs draft-js react-query sass typescript nest nest.js nestjs nest fs mongo mongodb mongoose nodemailer context',
 		codeSource: 'https://github.com/miliereya/dietolog-2.0-client',
@@ -188,8 +200,8 @@ export default function Home() {
 					</div>
 					<a
 						rel='stylesheet'
-						href='/web developer (Daniil Shvedov).pdf'
-						download='web developer (Daniil Shvedov).pdf'
+						href='/web-developer-Daniil-Shvedov.pdf'
+						download='web-developer-Daniil-Shvedov.pdf'
 						className={s.download_button}
 					>
 						Download Resume
